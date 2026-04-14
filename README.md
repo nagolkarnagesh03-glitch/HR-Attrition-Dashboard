@@ -91,7 +91,10 @@ Resume Points (HR Analytics – Strong 🔥)
 
 👉 Direct copy paste:
 
-Built an interactive HR Analytics Dashboard in Excel to analyze employee attrition and workforce trends
-Identified key drivers of attrition including job satisfaction, work-life balance, and employee demographics
-Developed dynamic KPI metrics such as Attrition Rate, Average Tenure, and Employee Distribution
-Used Pivot Tables, Charts, and Slicers to create a user-friendly and data-driven reporting solution
+-Built an interactive HR Analytics Dashboard in Excel to analyze employee attrition and workforce trends.
+
+-Identified key drivers of attrition including job satisfaction, work-life balance, and employee demographics.
+
+-Developed dynamic KPI metrics such as Attrition Rate, Average Tenure, and Employee Distribution.
+
+-Used Pivot Tables, Charts, and Slicers to create a user-friendly and data-driven reporting solution.
